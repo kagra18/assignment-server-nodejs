@@ -1,0 +1,70 @@
+{
+    "salar": [
+        {
+	    	"Salsnr": "C245",
+	    	"Salsnamn": null,
+	    	"Lat": null,
+	    	"Long": null,
+	    	"Ort": "Karlskrona",
+	    	"Hus": "C-huset",
+	    	"Våning": "2",
+	    	"Typ": "Föreläsningssal",
+	    	"Storlek": "30"
+    	},
+    	{
+	    	"Salsnr": "2-116",
+	    	"Salsnamn": "Ganges",
+	    	"Lat": null,
+	    	"Long": null,
+	    	"Ort": "Karlshamn",
+	    	"Hus": null,
+	    	"Våning": null,
+	    	"Typ": "Övrigt",
+	    	"Storlek": null
+    	},
+        {
+	    	"Salsnr": null,
+	    	"Salsnamn": "Landstingssalen",
+	    	"Lat": null,
+	    	"Long": null,
+	    	"Ort": "Karlskrona",
+	    	"Hus": "Wämö Center",
+	    	"Våning": null,
+	    	"Typ": "Föreläsningssal",
+	    	"Storlek": "150"
+    	},
+        {
+	    	"Salsnr": "C244",
+	    	"Salsnamn": null,
+	    	"Lat": null,
+	    	"Long": null,
+	    	"Ort": "Karlskrona",
+	    	"Hus": "C-huset",
+	    	"Våning": "2",
+	    	"Typ": "Datorsal",
+	    	"Storlek": "14"
+    	},
+        {
+	    	"Salsnr": "H315D",
+	    	"Salsnamn": "Vintage",
+	    	"Lat": null,
+	    	"Long": null,
+	    	"Ort": "Karlskrona",
+	    	"Hus": "H-huset",
+	    	"Våning": "3",
+	    	"Typ": "Grupprum",
+	    	"Storlek": null
+    	},
+    	{
+	    	"Salsnr": "H315G",
+	    	"Salsnamn": "Långö",
+	    	"Lat": null,
+	    	"Long": null,
+	    	"Ort": "Karlskrona",
+	    	"Hus": "H-huset",
+	    	"Våning": "3",
+	    	"Typ": "Konferensrum",
+	    	"Storlek": "16"
+    	}
+    ]
+}

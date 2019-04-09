@@ -1,0 +1,32 @@
+,,Koordinater,,,,,,
+Salsnr,Salsnamn,Lat,Long,Ort,Hus,Våning,Typ,Storlek
+2-116,Ganges,,,Karlshamn,,,Övrigt,
+2-128,Mississippi,,,Karlshamn,,1,Övrigt,
+2-129,Donau,,,Karlshamn,,,Övrigt,
+2-208,Videored-rum 1,,,Karlshamn,,,Övrigt,
+2-209,Videored-rum 2,,,Karlshamn,,,Övrigt,
+2-210,Videored-rum 3,,,Karlshamn,,,Övrigt,
+2-211,Ljudrum 5,,,Karlshamn,,,Övrigt,
+2-212,Ljudrum 4,,,Karlshamn,,,Övrigt,
+2-213,Ljudrum 3,,,Karlshamn,,,Övrigt,
+2-214,Ljudrum 2,,,Karlshamn,,,Övrigt,
+2-215,Ljudrum 1,,,Karlshamn,,,Övrigt,
+2-218,Studio1,,,Karlshamn,,,Övrigt,
+3-104,Ateljén,,,Karlshamn,,,Övrigt,100
+3-112,Referensrummet,,,Karlshamn,,,Övrigt,
+3-120,Arkham,,,Karlshamn,,,Övrigt,
+3-145,Modellverkstad,,,Karlshamn,,,Övrigt,
+3-225,,,,Karlshamn,,,Övrigt,15
+3-226,,,,Karlshamn,,,Övrigt,15
+3-242,Projektrum 4,,,Karlshamn,,,Grupprum,5
+A303,Monsunen,,,Karlskrona,A-huset,3,Konferensrum,18
+A311,Mistralen,,,Karlskrona,A-huset,3,Konferensrum,8
+A312,Passaden,,,Karlskrona,A-huset,3,Konferensrum,6
+C216,,,,Karlskrona,C-huset,2,Föreläsningssal,80
+C235,,,,Karlskrona,C-huset,2,Föreläsningssal,40
+C236,,,,Karlskrona,C-huset,2,Föreläsningssal,30
+C237,,,,Karlskrona,C-huset,2,Föreläsningssal,30
+C244,,,,Karlskrona,C-huset,2,Datorsal,14
+C245,,,,Karlskrona,C-huset,2,Föreläsningssal,30
+C313A,,,,Karlskrona,C-huset,3,Föreläsningssal,80
+C334,,,,Karlskrona,C-huset,3,Föreläsningssal,40

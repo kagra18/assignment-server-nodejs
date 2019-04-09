@@ -1,0 +1,26 @@
+{
+    "salar": [
+    	{
+	    	"Salsnr": "2-116",
+	    	"Salsnamn": "Ganges",
+	    	"Lat": null,
+	    	"Long": null,
+	    	"Ort": "Karlshamn",
+	    	"Hus": null,
+	    	"Våning": null,
+	    	"Typ": "Övrigt",
+	    	"Storlek": null
+    	},
+    	{
+	    	"Salsnr": "2-128",
+	    	"Salsnamn": "Mississippi",
+	    	"Lat": null,
+	    	"Long": null,
+	    	"Ort": "Karlshamn",
+	    	"Hus": null,
+	    	"Våning": "1",
+	    	"Typ": "Övrigt",
+	    	"Storlek": null
+    	}
+    ]
+}
